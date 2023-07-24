@@ -1,4 +1,4 @@
-# Flask and React vite with Login create Tasks
+# Mongo Flask and React vite with Login create Tasks
 <p align="justify">
 Flask REST API with MongoDB with mongoengine where there is a login and register (you can change password and email, delete account) where each user can create titles and descriptions (you can edit and delete them) and in 'same' section the user can select the count of how many people have the same title he has created and see the emails of those people who have the same title.
 </p>
